@@ -1,4 +1,6 @@
 # Swin_MIL
+A new version of implementation has been released, integrating Swin-MIL and SA-MIL together, enhancing the code's usability. You can find it at https://github.com/Nexuslkl/SA-MIL.
+
 The Swin Transformer backbone is initialized by ImageNet-1K pretrain model of Swin-T. The pretrain model mamed "swin_tiny_patch4_window7_224" can be download from https://github.com/microsoft/Swin-Transformer. 
 
 # cite
